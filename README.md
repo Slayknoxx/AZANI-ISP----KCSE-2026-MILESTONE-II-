@@ -5,9 +5,15 @@
 ![KCSE Year](https://img.shields.io/badge/KCSE-2026-blue.svg)
 
 ## Overview
-This repository contains the system documentation and database implementation for the **KCSE 2026 Computer Studies Project (Paper 451/3)**. The project focuses on building an information management system for **Azani ISP**, a company providing internet bandwidth, LAN infrastructure, and IT equipment to educational institutions across Kenya.
+This repository contains the system documentation and database implementation for the **KCSE 2026 Computer Studies Project (Paper 451/3)**. The project focuses on building an information management system for an Internet Service Provider (ISP).
 
 This repository is structured to maintain clean version control, comprehensive documentation, and modularity.
+
+## System Architecture
+
+![AZANI Internet Service Provider Information System](https://github.com/user-attachments/assets/system-architecture-diagram.png)
+
+*Figure: AZANI ISP Information System - Input Screens and Reports Overview*
 
 ## Milestones
 The project is divided into two primary deliverables as per KNEC guidelines:
