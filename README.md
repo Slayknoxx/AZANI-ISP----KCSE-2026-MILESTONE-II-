@@ -1,17 +1,22 @@
-[README.md](https://github.com/user-attachments/files/27063444/README.md)
 # Azani Internet Service Provider (ISP) Information System
 
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 ![KCSE Year](https://img.shields.io/badge/KCSE-2026-blue.svg)
 
 ## Overview
-This repository contains the system documentation and database implementation for the **KCSE 2026 Computer Studies Project (Paper 451/3)**. The project focuses on building an information management system for an Internet Service Provider (ISP).
+This repository contains the system documentation and database implementation for the **KCSE 2026 Computer Studies Project (Paper 451/3)**. The project focuses on building an information management system for an Internet Service Provider.
 
 This repository is structured to maintain clean version control, comprehensive documentation, and modularity.
 
 ## System Architecture
 
-*Figure: AZANI ISP Information System - Input Screens and Reports Overview*
+### Input Screens and Reports Overview
+
+![AZANI ISP System Overview 1](https://github.com/Slayknoxx/AZANI-ISP----KCSE-2026-MILESTONE-II-/blob/main/Screenshot%202026-06-18%20111306.png?raw=true)
+
+![AZANI ISP System Overview 2](https://github.com/Slayknoxx/AZANI-ISP----KCSE-2026-MILESTONE-II-/blob/main/Screenshot%202026-06-18%20111419.png?raw=true)
+
+![AZANI ISP System Overview 3](https://github.com/Slayknoxx/AZANI-ISP----KCSE-2026-MILESTONE-II-/blob/main/Screenshot%202026-06-18%20111419f.png?raw=true)
 
 ## Milestones
 The project is divided into two primary deliverables as per KNEC guidelines:
@@ -27,12 +32,10 @@ This repository has only milestone 2
 - **LAN Installations:** Managing networking infrastructure deployments and tracking installation costs.
 - **Billing & Payments:** Automated calculations for subscriptions, upgrade discounts, overdue fines, and aggregated revenue tracking.
 
-
 ## Development Environment
-- **Operating System** Windows 10 
+- **Operating System:** Windows 10 
 - **Primary Platform:** Microsoft Access 2016+ (Windows)
 - **Documentation:** Microsoft Word / Markdown
-
 
 ## Setup Instructions
 1. Clone the repository to your local machine.
@@ -41,7 +44,5 @@ This repository has only milestone 2
 4. Open `azani_isp_.accdb`.
 5. Enable macros and active content if prompted by Access security settings.
 
-
-
-**FOR ZIP PASSWORD KIDLY REACH OUT TO - 0112982306 (WHATSAPP/CALL)**
-                                     -  **kimtaihassan131@gmail.com**
+**FOR ZIP PASSWORD KINDLY REACH OUT TO - 0112982306 (WHATSAPP/CALL)**
+**- kimtaihassan131@gmail.com**
