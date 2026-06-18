@@ -21,7 +21,6 @@ The project is divided into two primary deliverables as per KNEC guidelines:
 - **Milestone 1:** System Documentation (System Analysis, ERD, Data Dictionary, Flowcharts, Normalization).
 - **Milestone 2:** System Implementation (Microsoft Access Database with Tables, Queries, Forms, and Reports).
   
-This repository has only milestone 2
 
 ## Features
 - **Client Management:** Registration and tracking of educational institutions (primary, junior, senior schools, and colleges).
@@ -42,5 +41,5 @@ This repository has only milestone 2
 4. Open `azani_isp_.accdb`.
 5. Enable macros and active content if prompted by Access security settings.
 
-**FOR ZIP PASSWORD KINDLY REACH OUT TO - 0112982306 (WHATSAPP/CALL)**
-**- kimtaihassan131@gmail.com**
+**FEEL FREE TO DONATE TO (MPESA) - 0112982306 (WHATSAPP/CALL FOR ASSISATNCE)**
+
