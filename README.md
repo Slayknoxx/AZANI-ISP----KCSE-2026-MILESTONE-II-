@@ -11,8 +11,6 @@ This repository is structured to maintain clean version control, comprehensive d
 
 ## System Architecture
 
-![AZANI Internet Service Provider Information System](https://github.com/user-attachments/assets/system-architecture-diagram.png)
-
 *Figure: AZANI ISP Information System - Input Screens and Reports Overview*
 
 ## Milestones
